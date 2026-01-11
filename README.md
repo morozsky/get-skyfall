@@ -4,7 +4,7 @@
 [Buradan indirin!](Skyfall_Launcher.msi)
 
 ## Nedir?
-Skyfall Launcher, bir kaçak Minecraft launcher'ıdır. Oyunun ilk yayımlanan *Cave Game* sürümlerinden en son modern snapshotlara kadar her sürümü oynayabilmenizi sağlar.  
+Skyfall Launcher, resmi olmayan Minecraft launcher'ıdır. Oyunun ilk yayımlanan *Cave Game* sürümlerinden en son modern snapshotlara kadar her sürümü oynayabilmenizi sağlar.  
 > 🛠️ Skyfall Launcher hâlâ geliştirme aşamasındadır. Yapılan testler doğrultusunda hatasız şekilde oyun başlatılabildiği gözlemlense de beklenmeyen hatalarla karşılaşmanız halinde bana bildirmenizi önemle rica ederim.  
 > ℹ️ Son stabil sürüm: 0.1.15  
 > ⚠️ Son test sürümü: 0.1.15-a (paylaşılmadı)  
