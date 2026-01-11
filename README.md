@@ -12,7 +12,10 @@ Skyfall Launcher, resmi olmayan bir Minecraft launcher'ıdır. Oyunun ilk yayım
 ## Planlanan güncellemeler
 > 📜 Modloader desteği  
 > 📜 Fabric/Forge desteği  
-> 🛠️ Hata ayıklama sisteminin geliştirilmesi ve detaylandırılması  
+> 🛠️ Hata ayıklama sisteminin geliştirilmesi ve detaylandırılması
+
+## NOT!
+Skyfall Launcher, Ely.by ile uyumludur, nası kullanacağınızı öğrenmek için profilimden `skyfall-get-authlib-injector` repo'suna göz atabilirsiniz.  
 
 ## OYUNCULARA UYARIMIZ
 Skyfall Launcher, resmi bir başlatıcı ***değildir!!***. Minecraft, ***Mojang/Microsoft***un ürünüdür. Bu proje sadece eğitim amaçlı yapılmıştır!  
