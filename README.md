@@ -1,7 +1,7 @@
 ![Skyfall logo](skyfall_logo-removebg-preview.png)
 # Skyfall Launcher
 
-[Buradan indirin!](Skyfall_Launcher.msi)
+[Buradan indirin!](Skyfall Launcher.msi)
 
 ## Nedir?
 Skyfall Launcher, resmi olmayan bir Minecraft launcher'ıdır. Oyunun ilk yayımlanan *Cave Game* sürümlerinden en son modern snapshotlara kadar her sürümü oynayabilmenizi sağlar.  
